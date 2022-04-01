@@ -1,0 +1,13 @@
+The copyrights in this software and any audio or visual work distributed with the software belong to Aniket Chaudhary. Aniket Chaudhary reserves all rights. Aniket Chaudhary licenses the distribution and installation of this software only in accordance with these terms.
+
+By installing, using or distributing this software you, on your own behalf and on behalf of your employer or principal, agree to be bound by these terms. If you do not agree to any of these terms, you may not use, copy, transmit, distribute, or install this software.
+
+This software, and all accompanying files, data and materials, are distributed "as is" and with no warranties of any kind, whether express or implied except as required by law. If you intend to rely on this software for critical purposes, it is essential that you should test it fully prior to using it for critical applications and you must assume the entire risk of using the program.
+
+Aniket Chaudhary will not be liable for any loss arising out of the use of this software including, but not limited to, any special, incidental or consequential loss. Aniket Chaudhary may not refund any amount paid for the purchase of the software to the purchaser of the software unless the purchaser satisfies Aniket Chaudhary that they tested the free version of the software prior to purchase.
+
+You may not use this software in any circumstances where there is any risk that failure of this software might result in a physical injury or loss of life. Any such use by you is entirely at your own risk, and you agree to indemnify Aniket Chaudhary from any claims relating to such unauthorized use.
+
+You may copy or distribute the installation file of this software in its complete unaltered form but you may not, under any circumstances, distribute any software registration code. In the event that you do distribute a software registration code, you will be liable to pay the full purchase price for each location where the unauthorized use of code occurs.
+
+This software is free for evaluation or professional use only. 
